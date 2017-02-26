@@ -1,3 +1,4 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge in Thinkful's Front End Web Development course.
+###Simple shopping list app that allows users to add, check, uncheck, and remove items from a shopping list 
+![screenshot](screenshot.png)
